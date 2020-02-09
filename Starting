@@ -1,0 +1,13 @@
+@Command : docker version 
+
+Verified cli can talk to engine 
+
+@command : docker info
+
+most config values of engine
+
+@command: docker command line structure
+
+old : docker < command > options 
+
+new : docker <command> <sub-command> (options )
